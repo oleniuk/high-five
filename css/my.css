@@ -1,0 +1,23 @@
+/*======СТИЛІЗАЦІЯ СКРОЛУ=====*/
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #9ef916;
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #82c918;
+    cursor: pointer;
+  }
+  /*======END СТИЛІЗАЦІЯ СКРОЛУ=====*/
+
+.btn-write-tg {
+  margin-top: 10px;
+}
+
+.my-burger-icon {
+  width: 100px;
+}
